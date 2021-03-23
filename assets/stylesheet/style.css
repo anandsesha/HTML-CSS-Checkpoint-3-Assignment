@@ -827,8 +827,7 @@ a {
 }
 
 .blog-aside h4 {
-    padding-bottom: 0.7rem;
-    border-bottom: 3px solid var(--ternary);
+    padding-bottom: 10px;
 }
 
 /* Search aside */
